@@ -13,7 +13,7 @@
                                         "width": 338
                                     },
                                     "image": {
-                                        "src": "img/logo_1.png",
+                                        "src": "https://dofdemfeqkgc0.cloudfront.net/template-images/bee/v.3/img/logo_1.png",
                                         "href": "https://beefree.io",
                                         "alt": "Image"
                                     },
@@ -279,7 +279,7 @@
                                         "width": 573.75
                                     },
                                     "image": {
-                                        "src": "img/rocket-bg.png",
+                                        "src": "https://dofdemfeqkgc0.cloudfront.net/template-images/bee/v.3/img/rocket-bg.png",
                                         "href": "https://beefree.io",
                                         "alt": "rocket"
                                     },
@@ -512,7 +512,7 @@
                                             {
                                                 "text": "",
                                                 "image": {
-                                                    "src": "repository_path/img/t-outline-circle-dark-gray/facebook.png",
+                                                    "src": "https://dofdemfeqkgc0.cloudfront.net/template-images/bee/v.3/img/t-outline-circle-dark-gray/facebook.png",
                                                     "prefix": "https://www.facebook.com/",
                                                     "title": "Facebook",
                                                     "href": "https://www.facebook.com/",
@@ -524,7 +524,7 @@
                                             {
                                                 "text": "",
                                                 "image": {
-                                                    "src": "repository_path/img/t-outline-circle-dark-gray/twitter.png",
+                                                    "src": "https://dofdemfeqkgc0.cloudfront.net/template-images/bee/v.3/img/t-outline-circle-dark-gray/twitter.png",
                                                     "prefix": "http://twitter.com/",
                                                     "title": "Twitter",
                                                     "href": "http://twitter.com/",
@@ -536,7 +536,7 @@
                                             {
                                                 "text": "",
                                                 "image": {
-                                                    "src": "repository_path/img/t-outline-circle-dark-gray/instagram@2x.png",
+                                                    "src": "https://dofdemfeqkgc0.cloudfront.net/template-images/bee/v.3/img/t-outline-circle-dark-gray/instagram@2x.png",
                                                     "prefix": "https://instagram.com/",
                                                     "title": "Instagram",
                                                     "href": "https://instagram.com/",

@@ -218,7 +218,7 @@
 					"descriptor": {
 						"image": {
 							"alt": "Image",
-							"src": "repository_path/img/placeholder_06.png",
+							"src": "https://dofdemfeqkgc0.cloudfront.net/template-images/bee/v.2/img/placeholder_06.png",
 							"href": "https://beefree.io"
 						},
 						"style": {
@@ -733,7 +733,7 @@
 								"image": {
 									"prefix": "https://www.facebook.com/",
 									"alt": "Facebook",
-									"src": "repository_path/img/facebook.png",
+									"src": "https://dofdemfeqkgc0.cloudfront.net/template-images/bee/v.2/img/facebook.png",
 									"title": "Facebook",
 									"href": ""
 								},
@@ -744,7 +744,7 @@
 								"image": {
 									"prefix": "http://twitter.com/",
 									"alt": "Twitter",
-									"src": "repository_path/img/twitter.png",
+									"src": "https://dofdemfeqkgc0.cloudfront.net/template-images/bee/v.2/img/twitter.png",
 									"title": "Twitter",
 									"href": ""
 								},
@@ -755,7 +755,7 @@
 								"image": {
 									"prefix": "http://plus.google.com/",
 									"alt": "Google+",
-									"src": "repository_path/img/googleplus.png",
+									"src": "https://dofdemfeqkgc0.cloudfront.net/template-images/bee/v.2/img/googleplus.png",
 									"title": "Google+",
 									"href": ""
 								},
